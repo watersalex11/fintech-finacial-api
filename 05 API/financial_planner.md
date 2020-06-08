@@ -4,7 +4,13 @@
 
 1. **Budjet Ananlysis** : 
 If you look at the amount of items by category we see that there are six.  
-![expense catagory](expense_catagory.html)
+
+	Category
+Food and Drink	15
+Travel	12
+Transfer	9
+Payment	6
+Shops	3
 
 The biggest expences are food and drink, followed by  travel, and transfers.  The pie chart below is a visual of the amount of items. 
 ![pie chart](images/pie.png)
@@ -18,10 +24,11 @@ For the exercise the 2 stocks we are dealing with are AGG and SPY.  AGG is U.S. 
 ![monte carlo plot](images/monte_carlo.png)
 
 In the retirement analysis a histogram plot was used to show the outcomes of the portfolio cumulative returns at 20 and 30 years.
+
 *20 Year Returns*
 ![hist plot 20 yr](images/mc_hist_20yr.png)
 ---
 *30 Year Returns*
 ![hist plot 30 yr](images/mc_hist_30yr.png)
 
-The final question was with a 4% withdrawl rate based on the portfolio having returns in the 90th percentile, would that be more than what is expected to have at the 10th percentile.  The calculations seem to confirm that based on the return rate you would have more than the 4% withdrawl even at the 10th percentile.
+The final question was with a 4% withdrawl rate based on the portfolio having returns in the 90th percentile, would that be more than what is expected at the 10th percentile.  The calculations seem to confirm that based on the return rate you would have more than the 4% withdrawl even at the 10th percentile.
